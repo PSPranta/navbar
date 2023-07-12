@@ -1,0 +1,18 @@
+
+
+ul{
+    margin: 0;padding: 0;list-style: none;text-align: left;
+  
+}
+li{
+    display: inline-block; margin-right: 5px;
+   
+}
+a{
+    background-color: #9b59b6;color: #fff;padding: 10px 25px;display:  block;
+    text-decoration: none;
+    border-radius:5px;
+}
+a:hover{
+    background: #c0392b;
+}
